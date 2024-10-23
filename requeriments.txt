@@ -1,0 +1,18 @@
+# Sistema Operacional
+- Sistema Operacional: Windows (devido ao uso da biblioteca winreg)
+
+# Bibliotecas necessárias
+- os
+- socket
+- platform
+- subprocess
+- psutil
+- webbrowser
+- datetime
+- winreg
+- threading
+- tkinter
+- ttk
+
+# Versões das bibliotecas (opcional)
+- python >= 3.8 (devido ao uso de recursos modernos do Python)
